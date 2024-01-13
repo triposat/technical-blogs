@@ -1,6 +1,6 @@
 ### Alchemy
 - [How to Deploy a Smart Contract to the Sepolia Testnet](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet) (Ghostwriting)
-- [How to Use Custom Webhooks for NFT Marketplace Alerts](https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts) (Ghostwriting)
+- <a href="https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts" target="_blank">How to Use Custom Webhooks for NFT Marketplace Alerts</a> (Ghostwriting)
 
 ### Apify
 - [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
