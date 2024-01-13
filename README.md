@@ -54,7 +54,7 @@
 - [Demystifying CSS Min(), Max(), and Clamp() Functions](https://www.lambdatest.com/blog/css-min-max-clamp-functions/)
 
 ### Middleware
-- [How To Search Logs Effectively With Log Management](https://middleware.io/blog/search-logs-effectively-with-log-management/)
+- [How To Search Logs Effectively With Log Management](https://middleware.io/blog/search-logs-effectively-with-log-management/) (Ghostwriting)
 
 ### OpenReplay
 - [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/)
