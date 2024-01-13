@@ -100,13 +100,13 @@
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
 
 ### ScrapeOps
-- [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
-- [Cloudflare Error 1015: How To Bypass Rate Limiting](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-cloudflare-error-1015/)
-- [Cloudflare Error 1020: How To Bypass Denied Access](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-cloudflare-error-1020/)
-- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/)
-- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/)
-- [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/)
-- [What is Puppeteer Extra - A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-extra/)
+- [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/) (Ghostwriting)
+- [Cloudflare Error 1015: How To Bypass Rate Limiting](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-cloudflare-error-1015/) (Ghostwriting)
+- [Cloudflare Error 1020: How To Bypass Denied Access](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-cloudflare-error-1020/) (Ghostwriting)
+- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/) (Ghostwriting)
+- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/) (Ghostwriting)
+- [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/) (Ghostwriting)
+- [What is Puppeteer Extra - A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-extra/) (Ghostwriting)
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
