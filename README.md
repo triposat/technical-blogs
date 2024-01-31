@@ -8,9 +8,9 @@
 - [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
 - [How to use the GitHub API in Python](https://blog.apify.com/python-github-api/)
 - [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
+- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
-- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
 - [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
 
 ### Built In
