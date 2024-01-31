@@ -101,8 +101,6 @@
 
 ### ScrapeOps
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/) (Ghostwriting)
-- [Cloudflare Error 1015: How To Bypass Rate Limiting](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-cloudflare-error-1015/) (Ghostwriting)
-- [Cloudflare Error 1020: How To Bypass Denied Access](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-cloudflare-error-1020/) (Ghostwriting)
 - [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/) (Ghostwriting)
 - [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/) (Ghostwriting)
 - [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/) (Ghostwriting)
