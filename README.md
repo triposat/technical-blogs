@@ -10,6 +10,7 @@
 - [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
+- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
 - [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
 
 ### Built In
