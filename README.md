@@ -72,6 +72,7 @@
 - [Class Vs. Object: What are the Differences?](https://www.scaler.com/topics/difference-between-class-and-object/)
 - [Command Line Arguments in C](https://www.scaler.com/topics/c/command-line-arguments-in-c/)
 - [Delete a Node from Linked List](https://www.scaler.com/topics/delete-a-node-from-linked-list/)
+- [Depth First Search (DFS) in Python](https://www.scaler.com/topics/dfs-python/)
 - [Difference Between For Loop and While Loop in Python](https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/)
 - [Fizz Buzz Program](https://www.scaler.com/topics/fizz-buzz-program/)
 - [Get Path of File Python](https://www.scaler.com/topics/get-path-of-file-python/)
