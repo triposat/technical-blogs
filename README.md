@@ -99,6 +99,9 @@
 - [What is Data Hiding in Python?](https://www.scaler.com/topics/data-hiding-in-python/)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
 
+### Scrape-It.Cloud
+- [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping) (Ghostwriting)
+
 ### ScrapeOps
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/) (Ghostwriting)
 - [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/) (Ghostwriting)
