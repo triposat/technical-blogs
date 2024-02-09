@@ -102,12 +102,17 @@
 ### Scrape-It.Cloud
 - [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping) (Ghostwriting)
 
-### ScrapeOps
-- [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/) (Ghostwriting)
-- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/) (Ghostwriting)
-- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/) (Ghostwriting)
-- [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/) (Ghostwriting)
-- [What is Puppeteer Extra - A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-extra/) (Ghostwriting)
+### ScrapeOps (Ghostwriting)
+- [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
+- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/)
+- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/)
+- [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/)
+- [What is Puppeteer Extra - A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-extra/)
+- [Python Requests/BS4 Beginners Series Part 2: Cleaning Dirty Data & Dealing With Edge Cases](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-2/)
+- [Python Requests/BS4 Beginners Series Part 3: Storing Data](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-3/)
+- [Python Requests/BS4 Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-4/)
+- [Python Requests/BS4 Beginners Series Part 5: User-Agents and Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
+- [Python Requests/BS4 Beginners Series Part 6: Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
