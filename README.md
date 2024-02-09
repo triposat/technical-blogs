@@ -111,7 +111,7 @@
 - [Python Requests/BS4 Beginners Series Part 2: Cleaning Dirty Data & Dealing With Edge Cases](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-2/)
 - [Python Requests/BS4 Beginners Series Part 3: Storing Data](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-3/)
 - [Python Requests/BS4 Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-4/)
-- [Python Requests/BS4 Beginners Series Part 5: User-Agents and Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
+- [Python Requests/BS4 Beginners Series Part 5: User-Agents and Browser Headers](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
 - [Python Requests/BS4 Beginners Series Part 6: Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
 
 ### SigNoz
