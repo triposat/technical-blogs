@@ -4,6 +4,7 @@
 
 ### Apify
 - [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
+- [How to save an image with Python](https://blog.apify.com/save-image-python/)
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 - [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
 - [How to use the GitHub API in Python](https://blog.apify.com/python-github-api/)
