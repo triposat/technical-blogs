@@ -2,6 +2,7 @@
 - [How to Deploy a Smart Contract to the Sepolia Testnet](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet) (Ghostwriting)
 - [How to Use Custom Webhooks for NFT Marketplace Alerts](https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts) (Ghostwriting)
 
+<!--
 ### Apify
 - [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
 - [How to save an image with Python](https://blog.apify.com/save-image-python/)
@@ -13,7 +14,7 @@
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
 - [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
-
+-->
 ### Built In
 - [Guide to Python Socket Programming](https://builtin.com/data-science/python-socket)
 - [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)
@@ -100,6 +101,7 @@
 - [What is Data Hiding in Python?](https://www.scaler.com/topics/data-hiding-in-python/)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
 
+<!--
 ### Scrape-It.Cloud (Ghostwriting)
 - [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping)
 
@@ -115,6 +117,7 @@
 - [Python Requests/BS4 Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-4/)
 - [Python Requests/BS4 Beginners Series Part 5: User-Agents and Browser Headers](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
 - [Python Requests/BS4 Beginners Series Part 6: Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
+-->
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
