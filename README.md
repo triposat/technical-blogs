@@ -1,6 +1,4 @@
-### Alchemy
-- [How to Deploy a Smart Contract to the Sepolia Testnet](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet) (Ghostwriting)
-- [How to Use Custom Webhooks for NFT Marketplace Alerts](https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts) (Ghostwriting)
+_I've also worked with some of the top technical SaaS startups, but I can't publicly share those blogs as I ghostwrite for them._ Additionally, several of my other blogs are currently under review for publication. Once published, I'll be sure to add them to the list.
 
 ### Built In
 - [Guide to Python Socket Programming](https://builtin.com/data-science/python-socket)
@@ -34,9 +32,6 @@
 ### LambdaTest
 - [Bulma CSS Framework: Getting Started Guide](https://www.lambdatest.com/blog/bulma-css-framework/)
 - [Demystifying CSS Min(), Max(), and Clamp() Functions](https://www.lambdatest.com/blog/css-min-max-clamp-functions/)
-
-### Middleware
-- [How To Search Logs Effectively With Log Management](https://middleware.io/blog/search-logs-effectively-with-log-management/) (Ghostwriting)
 
 ### OpenReplay
 - [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/)
@@ -82,9 +77,6 @@
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
-
-### StackAbuse
-- [Check if String Contains a Number in Python](https://stackabuse.com/check-if-string-contains-a-number-in-python/) (Ghostwriting)
 
 ### Zipy
 - [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools)
