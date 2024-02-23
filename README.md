@@ -2,27 +2,11 @@
 - [How to Deploy a Smart Contract to the Sepolia Testnet](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet) (Ghostwriting)
 - [How to Use Custom Webhooks for NFT Marketplace Alerts](https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts) (Ghostwriting)
 
-<!--
-### Apify
-- [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
-- [How to save an image with Python](https://blog.apify.com/save-image-python/)
-- [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
-- [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
-- [How to use the GitHub API in Python](https://blog.apify.com/python-github-api/)
-- [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
-- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
-- [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
-- [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
-- [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
--->
 ### Built In
 - [Guide to Python Socket Programming](https://builtin.com/data-science/python-socket)
 - [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)
 - [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
 - [WAN vs LAN: Differences Between the Two Networks](https://builtin.com/software-engineering-perspectives/wan-vs-lan)
-
-### DataCamp
-- [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide)
 
 ### freeCodeCamp
 - [AWS Basics for DevOps – How to Setup a Linux Machine](https://www.freecodecamp.org/news/aws-basics-for-devops/)
@@ -46,11 +30,6 @@
 - [Python – Move Files To Creation and Modification Date Named Directories](https://www.geeksforgeeks.org/python-move-files-to-creation-and-modification-date-named-directories/)
 - [Python – Web App To Send Push Notification To Your Phone](https://www.geeksforgeeks.org/python-web-app-to-send-push-notification-to-your-phone/)
 - [Types of Internet Security Protocols](https://www.geeksforgeeks.org/types-of-internet-security-protocols/)
-
-### HowToDoInJava
-- [Python Numpy 101: A Beginners Guide](https://howtodoinjava.com/python/numpy/python-numpy-tutorial/) (Ghostwriting)
-- [Python Pandas 101: A Beginners Guide](https://howtodoinjava.com/python/pandas/python-pandas/) (Ghostwriting)
-- [Quicksort – Algorithm, Implementation and Performance](https://howtodoinjava.com/algorithm/quicksort-java-example/) (Ghostwriting)
 
 ### LambdaTest
 - [Bulma CSS Framework: Getting Started Guide](https://www.lambdatest.com/blog/bulma-css-framework/)
@@ -100,24 +79,6 @@
 - [What is Assignment Operator in Python?](https://www.scaler.com/topics/assignment-operator-in-python/)
 - [What is Data Hiding in Python?](https://www.scaler.com/topics/data-hiding-in-python/)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
-
-<!--
-### Scrape-It.Cloud (Ghostwriting)
-- [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping)
-
-### ScrapeOps (Ghostwriting)
-- [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
-- [Cloudflare Error 1015: How To Bypass Rate Limiting](https://scrapeops.io/web-scraping-playbook/cloudflare-error-1015/)
-- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/)
-- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/)
-- [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/)
-- [What is Puppeteer Extra - A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-extra/)
-- [Python Requests/BS4 Beginners Series Part 2: Cleaning Dirty Data & Dealing With Edge Cases](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-2/)
-- [Python Requests/BS4 Beginners Series Part 3: Storing Data to JSON, S3, MySQL, and PostgreSQL](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-3/)
-- [Python Requests/BS4 Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-4/)
-- [Python Requests/BS4 Beginners Series Part 5: User-Agents and Browser Headers](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
-- [Python Requests/BS4 Beginners Series Part 6: Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
--->
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
