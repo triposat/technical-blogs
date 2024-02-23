@@ -1,4 +1,4 @@
-_I've also worked with some of the top technical SaaS startups, but I can't publicly share those blogs as I ghostwrite for them._ Additionally, several of my other blogs are currently under review for publication. Once published, I'll be sure to add them to the list.
+💡 I've also worked with some of the top technical SaaS startups, but I can't publicly share those blogs as I ghostwrite for them.
 
 ### Built In
 - [Guide to Python Socket Programming](https://builtin.com/data-science/python-socket)
